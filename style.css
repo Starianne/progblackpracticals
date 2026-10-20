@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Menu";
+    src: url(./MADETommySoftRegular.otf) format("opentype");
+}
+
+* {
+    font-family: "Tommy";
+}
+
+body {
+    background-color: rgb(145, 198, 244);
+}
